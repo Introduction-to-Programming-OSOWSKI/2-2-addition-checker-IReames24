@@ -1,5 +1,5 @@
 def addCheck(x, y, Z):
     if x + y == Z:
-        return("true")
+        return True
     else: 
-        return("false")
+        return False
